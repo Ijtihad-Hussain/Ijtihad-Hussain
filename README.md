@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm Ijtihad Hussain, a passionate and results-driv
 
 💻 Technologies & Tools
 
-Flutter / Dart
-Firebase
-RESTful APIs
-Git / GitHub
-Android Studio
-Visual Studio Code
+• Flutter / Dart
+• Firebase
+• RESTful APIs
+• Git / GitHub
+• Android Studio
+• Visual Studio Code
 
 📫 Let's Connect!
 Feel free to reach out to me through LinkedIn (https://www.linkedin.com/in/ijtihad-hussain/) or via email at mr.ijtihadhussain@gmail.com. I'm open to discussions, job opportunities, and connecting with fellow developers. Let's create something amazing together!
