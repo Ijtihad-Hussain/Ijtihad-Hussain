@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm Ijtihad Hussain, a passionate and results-driv
 • Flutter / Dart
 • Firebase
 • RESTful APIs
-• Git / GitHub
+• Java / Kotlin
+• Python
 • Android Studio
 
 📫 Let's Connect!
